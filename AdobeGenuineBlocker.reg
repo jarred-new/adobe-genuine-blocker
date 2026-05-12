@@ -1,0 +1,17 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\AdobeGenuineBlocker.Application = AdobeGenuineBlocker Application
+
+
+HKEY_CLASSES_ROOT\AdobeGenuineBlocker.Application\CLSID = {AEF598F4-CF74-42BC-B0BE-30582654088F}
+
+HKEY_CLASSES_ROOT\CLSID\{AEF598F4-CF74-42BC-B0BE-30582654088F} = AdobeGenuineBlocker Application
+HKEY_CLASSES_ROOT\CLSID\{AEF598F4-CF74-42BC-B0BE-30582654088F}\ProgId = AdobeGenuineBlocker.Application
+
+
+HKEY_CLASSES_ROOT\CLSID\{AEF598F4-CF74-42BC-B0BE-30582654088F}\LocalServer32 = AdobeGenuineBlocker.EXE

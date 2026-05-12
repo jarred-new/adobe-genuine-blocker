@@ -1,0 +1,418 @@
+Block: 2026-02-25 20:25:15
+Blocked: 7za.exe
+Blocked: acroaum.exe
+Blocked: AcroRd32.exe
+Blocked: Adobe Analysis Server.exe
+Blocked: Adobe Crash Processor.exe
+Blocked: Adobe Crash Processor.exe
+Blocked: Adobe Crash Processor.exe
+Blocked: Adobe Crash Processor.exe
+Blocked: Adobe Crash Processor.exe
+Blocked: Adobe Creative Cloud Diagnostics.exe
+Blocked: Adobe Dimension.exe
+Blocked: Adobe Lightroom CEF Helper.exe
+Blocked: Adobe Media Encoder.exe
+Blocked: Adobe Media Encoder.exe
+Blocked: Adobe Premiere Pro.exe
+Blocked: AdobeCrashReport.exe
+Blocked: AdobeCrashReport.exe
+Blocked: AdobeCrashReport.exe
+Blocked: AdobeCrashReport.exe
+Blocked: AdobeGenuineValidator.exe
+Blocked: AdobeUpdateManager.exe
+Blocked: Advanced3DModelConverter.exe
+Blocked: aerender.exe
+Blocked: AfterFX.exe
+Blocked: AIMonitor.exe
+Blocked: AIRobin.exe
+Blocked: AISafeModeLauncher.exe
+Blocked: AISniffer.exe
+Blocked: ame_webservice_console.exe
+Blocked: ame_webservice_console.exe
+Blocked: amecommand.exe
+Blocked: amecommand.exe
+Blocked: amecommand.exe
+Blocked: AMEWebService.exe
+Blocked: AMEWebService.exe
+Blocked: AMEWinService.exe
+Blocked: AMEWinService.exe
+Blocked: Animate.exe
+Blocked: Automatic Duck.exe
+Blocked: CaptiveAppEntry.exe
+Blocked: CCXProcess.exe
+Blocked: CCXProcess.exe
+Blocked: CEPHtmlEngine.exe
+Blocked: CEPHtmlEngine.exe
+Blocked: CEPHtmlEngine.exe
+Blocked: CEPHtmlEngine.exe
+Blocked: CEPHtmlEngine.exe
+Blocked: CEPHtmlEngine.exe
+Blocked: CEPHtmlEngine.exe
+Blocked: ConsoleApp.exe
+Blocked: convert.exe
+Blocked: CoreSync.exe
+Blocked: CoreSyncCustomHook.exe
+Blocked: crashpad_handler.exe
+Blocked: crashpad_handler.exe
+Blocked: crashpad_handler.exe
+Blocked: crashpad_handler.exe
+Blocked: crashpad_handler.exe
+Blocked: crashpad_handler.exe
+Blocked: crashpad_handler.exe
+Blocked: crashpad_handler.exe
+Blocked: crashpad_handler.exe
+Blocked: createprojector.exe
+Blocked: createprojector.exe
+Blocked: Creative Cloud CustomHook.exe
+Blocked: Creative Cloud Desktop App.exe
+Blocked: Creative Cloud Helper.exe
+Blocked: Creative Cloud UI Helper.exe
+Blocked: Creative Cloud Uninstall Helper.exe
+Blocked: Creative Cloud Uninstaller.exe
+Blocked: Creative Cloud.exe
+Blocked: Creative Cloud.exe
+Blocked: CreativeCloudSet-Up.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRLogTransport.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: CRWindowsClientService.exe
+Blocked: Droplet Template.exe
+Blocked: dvaapprelauncher.exe
+Blocked: dvaapprelauncher.exe
+Blocked: dvaapprelauncher.exe
+Blocked: dvaapprelauncher.exe
+Blocked: dvaaudiofilterscan.exe
+Blocked: dvaaudiofilterscan.exe
+Blocked: dvaaudiofilterscan.exe
+Blocked: dynamiclinkmanager.exe
+Blocked: dynamiclinkmanager.exe
+Blocked: dynamiclinkmanager.exe
+Blocked: dynamiclinkmanager.exe
+Blocked: dynamiclinkmanager.exe
+Blocked: dynamiclinkmanager.exe
+Blocked: dynamiclinkmanager.exe
+Blocked: dynamiclinkmanager.exe
+Blocked: dynamiclinkmediaserver.exe
+Blocked: dynamiclinkmediaserver.exe
+Blocked: dynamiclinkmediaserver.exe
+Blocked: ffmpeg.exe
+Blocked: FlashPlayer.exe
+Blocked: FlashPlayer.exe
+Blocked: FlashPlayerDebugger.exe
+Blocked: flitetranscoder.exe
+Blocked: FrameioHelper.exe
+Blocked: FrameioHelper.exe
+Blocked: GPUSniffer.exe
+Blocked: GPUSniffer.exe
+Blocked: GPUSniffer.exe
+Blocked: GPUSniffer.exe
+Blocked: gpu-sniffer-core.exe
+Blocked: HD_Deleter.exe
+Blocked: HeadlessAnimateApp.exe
+Blocked: Illustrator.exe
+Blocked: IllustratorDiagnosys.exe
+Blocked: ImporterREDServer.exe
+Blocked: ImporterREDServer.exe
+Blocked: ImporterREDServer.exe
+Blocked: ImporterREDServer.exe
+Blocked: ImporterREDServer.exe
+Blocked: ImporterREDServer.exe
+Blocked: ImporterREDServer.exe
+Blocked: jabswitch.exe
+Blocked: jaccessinspector.exe
+Blocked: jaccesswalker.exe
+Blocked: jar.exe
+Blocked: jarsigner.exe
+Blocked: java.exe
+Blocked: javac.exe
+Blocked: javadoc.exe
+Blocked: javap.exe
+Blocked: javaw.exe
+Blocked: jcmd.exe
+Blocked: jconsole.exe
+Blocked: jdb.exe
+Blocked: jdeprscan.exe
+Blocked: jdeps.exe
+Blocked: jfr.exe
+Blocked: jhsdb.exe
+Blocked: jimage.exe
+Blocked: jinfo.exe
+Blocked: jlink.exe
+Blocked: jmap.exe
+Blocked: jmod.exe
+Blocked: jpackage.exe
+Blocked: jps.exe
+Blocked: jrunscript.exe
+Blocked: jshell.exe
+Blocked: jstack.exe
+Blocked: jstat.exe
+Blocked: jstatd.exe
+Blocked: keytool.exe
+Blocked: kinit.exe
+Blocked: klist.exe
+Blocked: ktab.exe
+Blocked: Lightroom.exe
+Blocked: LogCollectorTool.exe
+Blocked: LogTransport2.exe
+Blocked: LogTransport2.exe
+Blocked: LogTransport2.exe
+Blocked: mocha4ae_adobe.exe
+Blocked: mocha4ae_adobe.exe
+Blocked: mocha4ae_adobe.exe
+Blocked: mocha4ae_adobe.exe
+Blocked: node.exe
+Blocked: node.exe
+Blocked: Photoshop.exe
+Blocked: PhotoshopPrefsManager.exe
+Blocked: pngquant.exe
+Blocked: PProHeadless.exe
+Blocked: rmiregistry.exe
+Blocked: serialver.exe
+Blocked: SimController.exe
+Blocked: sketchConfigTest.exe
+Blocked: sniffer.exe
+Blocked: TeamProjectsLocalHub.exe
+Blocked: TeamProjectsLocalHub.exe
+Blocked: TeamProjectsLocalHub.exe
+Blocked: TeamProjectsLocalHub.exe
+Blocked: TQCacheCleaner.exe
+Blocked: uninstall.exe
+Blocked: XPUInfoIPC.exe
+Remove Rules: 2026-02-25 20:24:39
+Removed: 7za.exe
+Removed: 7za.exe
+Removed: acroaum.exe
+Removed: AcroRd32.exe
+Removed: Adobe Analysis Server.exe
+Removed: Adobe Crash Processor.exe
+Removed: Adobe Crash Processor.exe
+Removed: Adobe Crash Processor.exe
+Removed: Adobe Crash Processor.exe
+Removed: Adobe Crash Processor.exe
+Removed: Adobe Crash Processor.exe
+Removed: Adobe Crash Processor.exe
+Removed: Adobe Creative Cloud Diagnostics.exe
+Removed: Adobe Creative Cloud Diagnostics.exe
+Removed: Adobe Dimension.exe
+Removed: Adobe Lightroom CEF Helper.exe
+Removed: Adobe Media Encoder.exe
+Removed: Adobe Media Encoder.exe
+Removed: Adobe Premiere Pro.exe
+Removed: AdobeCrashReport.exe
+Removed: AdobeCrashReport.exe
+Removed: AdobeCrashReport.exe
+Removed: AdobeCrashReport.exe
+Removed: AdobeGenuineValidator.exe
+Removed: AdobeGenuineValidator.exe
+Removed: AdobeUpdateManager.exe
+Removed: Advanced3DModelConverter.exe
+Removed: aerender.exe
+Removed: AfterFX.exe
+Removed: AIMonitor.exe
+Removed: AIRobin.exe
+Removed: AISafeModeLauncher.exe
+Removed: AISniffer.exe
+Removed: ame_webservice_console.exe
+Removed: ame_webservice_console.exe
+Removed: amecommand.exe
+Removed: amecommand.exe
+Removed: amecommand.exe
+Removed: AMEWebService.exe
+Removed: AMEWebService.exe
+Removed: AMEWinService.exe
+Removed: AMEWinService.exe
+Removed: Animate.exe
+Removed: Automatic Duck.exe
+Removed: CaptiveAppEntry.exe
+Removed: CCXProcess.exe
+Removed: CCXProcess.exe
+Removed: CCXProcess.exe
+Removed: CCXProcess.exe
+Removed: CEPHtmlEngine.exe
+Removed: CEPHtmlEngine.exe
+Removed: CEPHtmlEngine.exe
+Removed: CEPHtmlEngine.exe
+Removed: CEPHtmlEngine.exe
+Removed: CEPHtmlEngine.exe
+Removed: CEPHtmlEngine.exe
+Removed: ConsoleApp.exe
+Removed: convert.exe
+Removed: CoreSync.exe
+Removed: CoreSyncCustomHook.exe
+Removed: crashpad_handler.exe
+Removed: crashpad_handler.exe
+Removed: crashpad_handler.exe
+Removed: crashpad_handler.exe
+Removed: crashpad_handler.exe
+Removed: crashpad_handler.exe
+Removed: crashpad_handler.exe
+Removed: crashpad_handler.exe
+Removed: crashpad_handler.exe
+Removed: createprojector.exe
+Removed: createprojector.exe
+Removed: Creative Cloud CustomHook.exe
+Removed: Creative Cloud CustomHook.exe
+Removed: Creative Cloud Desktop App.exe
+Removed: Creative Cloud Desktop App.exe
+Removed: Creative Cloud Helper.exe
+Removed: Creative Cloud Helper.exe
+Removed: Creative Cloud UI Helper.exe
+Removed: Creative Cloud UI Helper.exe
+Removed: Creative Cloud Uninstall Helper.exe
+Removed: Creative Cloud Uninstall Helper.exe
+Removed: Creative Cloud Uninstaller.exe
+Removed: Creative Cloud Uninstaller.exe
+Removed: Creative Cloud.exe
+Removed: Creative Cloud.exe
+Removed: Creative Cloud.exe
+Removed: Creative Cloud.exe
+Removed: CreativeCloudSet-Up.exe
+Removed: CreativeCloudSet-Up.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRLogTransport.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: CRWindowsClientService.exe
+Removed: Droplet Template.exe
+Removed: dvaapprelauncher.exe
+Removed: dvaapprelauncher.exe
+Removed: dvaapprelauncher.exe
+Removed: dvaapprelauncher.exe
+Removed: dvaaudiofilterscan.exe
+Removed: dvaaudiofilterscan.exe
+Removed: dvaaudiofilterscan.exe
+Removed: dynamiclinkmanager.exe
+Removed: dynamiclinkmanager.exe
+Removed: dynamiclinkmanager.exe
+Removed: dynamiclinkmanager.exe
+Removed: dynamiclinkmanager.exe
+Removed: dynamiclinkmanager.exe
+Removed: dynamiclinkmanager.exe
+Removed: dynamiclinkmanager.exe
+Removed: dynamiclinkmediaserver.exe
+Removed: dynamiclinkmediaserver.exe
+Removed: dynamiclinkmediaserver.exe
+Removed: ffmpeg.exe
+Removed: FlashPlayer.exe
+Removed: FlashPlayer.exe
+Removed: FlashPlayerDebugger.exe
+Removed: flitetranscoder.exe
+Removed: FrameioHelper.exe
+Removed: FrameioHelper.exe
+Removed: GPUSniffer.exe
+Removed: GPUSniffer.exe
+Removed: GPUSniffer.exe
+Removed: GPUSniffer.exe
+Removed: gpu-sniffer-core.exe
+Removed: HD_Deleter.exe
+Removed: HeadlessAnimateApp.exe
+Removed: Illustrator.exe
+Removed: IllustratorDiagnosys.exe
+Removed: ImporterREDServer.exe
+Removed: ImporterREDServer.exe
+Removed: ImporterREDServer.exe
+Removed: ImporterREDServer.exe
+Removed: ImporterREDServer.exe
+Removed: ImporterREDServer.exe
+Removed: ImporterREDServer.exe
+Removed: jabswitch.exe
+Removed: jaccessinspector.exe
+Removed: jaccesswalker.exe
+Removed: jar.exe
+Removed: jarsigner.exe
+Removed: java.exe
+Removed: javac.exe
+Removed: javadoc.exe
+Removed: javap.exe
+Removed: javaw.exe
+Removed: jcmd.exe
+Removed: jconsole.exe
+Removed: jdb.exe
+Removed: jdeprscan.exe
+Removed: jdeps.exe
+Removed: jfr.exe
+Removed: jhsdb.exe
+Removed: jimage.exe
+Removed: jinfo.exe
+Removed: jlink.exe
+Removed: jmap.exe
+Removed: jmod.exe
+Removed: jpackage.exe
+Removed: jps.exe
+Removed: jrunscript.exe
+Removed: jshell.exe
+Removed: jstack.exe
+Removed: jstat.exe
+Removed: jstatd.exe
+Removed: keytool.exe
+Removed: kinit.exe
+Removed: klist.exe
+Removed: ktab.exe
+Removed: Lightroom.exe
+Removed: LogCollectorTool.exe
+Removed: LogTransport2.exe
+Removed: LogTransport2.exe
+Removed: LogTransport2.exe
+Removed: mocha4ae_adobe.exe
+Removed: mocha4ae_adobe.exe
+Removed: mocha4ae_adobe.exe
+Removed: mocha4ae_adobe.exe
+Removed: node.exe
+Removed: node.exe
+Removed: node.exe
+Removed: Photoshop.exe
+Removed: PhotoshopPrefsManager.exe
+Removed: pngquant.exe
+Removed: PProHeadless.exe
+Removed: rmiregistry.exe
+Removed: serialver.exe
+Removed: SimController.exe
+Removed: sketchConfigTest.exe
+Removed: sniffer.exe
+Removed: TeamProjectsLocalHub.exe
+Removed: TeamProjectsLocalHub.exe
+Removed: TeamProjectsLocalHub.exe
+Removed: TeamProjectsLocalHub.exe
+Removed: TQCacheCleaner.exe
+Removed: TQCacheCleaner.exe
+Removed: uninstall.exe
+Removed: XPUInfoIPC.exe

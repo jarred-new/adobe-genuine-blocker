@@ -1,0 +1,29 @@
+// AdobeGenuineBlocker.idl : type library source for AdobeGenuineBlocker.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (AdobeGenuineBlocker.tlb).
+
+[ uuid(A6815A04-E5E4-4E5E-9B79-6070799315F3), version(1.0) ]
+library AdobeGenuineBlocker
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  Primary dispatch interface for CAdobeGenuineBlockerDoc
+	
+	[ uuid(DC39ACE9-4272-4A02-A822-74729093D3A4) ]
+	dispinterface IAdobeGenuineBlocker
+	{
+		properties:
+			
+		methods:
+	};
+
+	//  Class information for CAdobeGenuineBlockerDoc
+	
+	[ uuid(AEF598F4-CF74-42BC-B0BE-30582654088F) ]
+	coclass AdobeGenuineBlocker
+	{
+		[default] dispinterface IAdobeGenuineBlocker;
+	};
+};
